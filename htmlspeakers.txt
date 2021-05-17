@@ -1,0 +1,554 @@
+
+        <!--speaker-->
+        <section class="speaker section-spacing text-center" id="speaker">
+            <div class="container">
+                <header>
+                    <h2>Palestrantes</h2>
+                    <h3>Experts que estarão presentes nesta edição</h3>
+                </header>
+                <div class="row">
+                    <div class="speaker-slider">
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2005_speaker-daibert340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Osvaldo Daibert</h4>
+                                        <p>Technical Evangelist na Microsoft</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://www.twitter.com/daibert" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/daibert" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-2" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2005_speaker-carlossantos340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Carlos dos Santos</h4>
+                                        <p>Gerente de pesquisa e desenvolvimento</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://www.twitter.com/cdssoftware" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/carloscds" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://github.com/code-cracker" target="_blank"><i class="fa fa-github-alt"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-1" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+
+                        </div>
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-vivianeribeiro340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Viviane Ribeiro</h4>
+                                        <p>Especialista em Business Intelligence</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/viviane.ribeiro.71465" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-vivianeribeiro" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-giancarlofleuri340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Giancarlo Fleuri</h4>
+                                        <p>Empreendedor e apaixonado por realidade virtual</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/giancarlo.fleuri" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-giancarlofleuri" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-jucineisantos340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Jucinei dos Santos</h4>
+                                        <p>Desenvolvedor de software na Build T.I</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/jucineipereira" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-jucineisantos" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-fredericomaia340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Frederico Maia</h4>
+                                        <p>Desenvolvedor na TecSinapse</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/fredmaiaarantes" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-fredericomaia" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-renanmorais340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Renan Morais</h4>
+                                        <p>Desenvolvedor na Prodata</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/renanc.morais" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-renanmorais" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-sheldonlad340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Sheldon Led</h4>
+                                        <p>Desenvolvedor web</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://facebook.com/sheldonleds" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-sheldonled" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-raphaelfreitas340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Raphael Freitas</h4>
+                                        <p>Analista de sistemas</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/raphaelnfreitas" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-raphaelfreitas" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-otaviocalaca340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Otávio Calaça</h4>
+                                        <p>Gerente de Desenvolvimento na Oobj</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/otaviocx" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-otaviocalaca" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-reinaldosouza340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Reinaldo de Souza</h4>
+                                        <p>Diretor de Projetos na Inloc Sistemas</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/reinaldo.souzajr" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-reinaldosouza" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-anibalfreitas340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Anibal Freitas</h4>
+                                        <p>Gerente de Projetos na Origen</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/anibalfreitas13" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-anibalfreitas" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-rhaydrick340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Rhaydrick Sandokhan</h4>
+                                        <p>Bacharel em Gestão da Informação pela UFG</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/rhaydrick" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-rhaydrick" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-julianovince340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Juliano Vince</h4>
+                                        <p>Analista de Sistemas na Máxima Sistemas</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/profile.php?id=100009059249765" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-julianovince" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-rogeriomoraes340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Rogério Moraes</h4>
+                                        <p>Consultor e desenvolvedor do Cebraspe/Cespe</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/rogeriomc" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-rogeriomoraes" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-ricardofaria340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Ricardo Faria</h4>
+                                        <p>Desenvolvedor na Oobj</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/ricardo.rodriguesdefaria" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-ricardofaria" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-franklinrabay340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Franklin Rabay</h4>
+                                        <p>Senior Developer pela Boatsetter</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://facebook.com/franklinrabay" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-franklinrabay" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-allistoncartos340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Alliston Carlos</h4>
+                                        <p>Senior Developer pela Gubes</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://facebook.com/alliston.aleixo" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-allistoncartos" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-rodrigokono340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Rodrigo Kono</h4>
+                                        <p>Gestor de negócios pela Red & White Solutions</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://www.facebook.com/rodrigokono" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-rodrigokono" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-cloviscoli340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Clovis Coli</h4>
+                                        <p>Arquiteto de Sofware pela CodOut</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/cloviscoli" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <!--<a href="#0" data-type="speaker-cloviscoli" class="bttn">Ver Bio</a>-->
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-caiosousa340.png" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Caio Sousa</h4>
+                                        <p>Desenvolvedor, Cientista, MCP</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/profile.php?id=100008499962624" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <!--<a href="#0" data-type="speaker-caiosousa" class="bttn">Ver Bio</a>-->
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-gerleyadriano340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Gérley Adriano</h4>
+                                        <p>Analista desenvolvedor na SCTI - SEGPLAN</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="https://www.facebook.com/gerley.adriano" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-gerleyadriano" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-leonardonunes340.jpg" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Leonardo Nunes</h4>
+                                        <p>Analista desenvolvedor na SCTI - SEGPLAN</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://facebook.com/leonardo.nunes.31392" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-leonardonunes" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+
+                        <div class="item">
+                            <!--event-speaker-->
+                            <div class="event-speaker">
+                                <figure>
+                                    <img src="img/speaker/2105_speaker-rafaelpinto340.png" alt="event-speaker" data-no-retina>
+                                    <figcaption>
+                                        <h4>Rafael Pinto</h4>
+                                        <p>Assessor Jurídico em empreendedorismo e startups</p>
+
+                                        <!--social-->
+                                        <ul class="social">
+                                            <li><a href="http://www.facebook.com/rafaelpinto.adv" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        </ul>
+                                        <!--social end-->
+
+                                    </figcaption>
+                                </figure>
+                                <a href="#0" data-type="speaker-rafaelpinto" class="bttn">Ver Bio</a>
+                            </div>
+                            <!--event-speaker end-->
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--speaker end-->
